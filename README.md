@@ -34,12 +34,12 @@ Explore different folders corresponding to the various areas we cover:
 <br>
 
 ## This is a collaborative effort by:
-  - 
+  - [EL MERJANI Mohamed](https://github.com/elmerjani) | [BENHAMMOUTE Mohammed](https://github.com/Mohammed-BENHAMMOUTE)
   - [LAKHAL Badr](https://github.com/BALK-03) | [OUAHMANE Yassine](https://github.com/YassineOUAHMANE)
   - [EL OUKILI Tarik](https://github.com/TarikEloukili)
-  - [IKBI Abdelilah](https://github.com/abde14-ik) | [Rim Lakhiri](https://github.com/rimalklola)
-  - [AZEHAF Sara]
-  - [SLIMANI Hatim]
+  - [IKBI Abdelilah](https://github.com/abde14-ik) | [lakhiri Rim](https://github.com/rimalklola)
+  - [AZEHAF Sara](https://github.com/Saraazehaf) | [JOUKAR Aimrane](https://github.com/joukar4) | [KAMAL Salma](https://github.com/SaliKAMAL)
+  - [SLIMANI Hatim](https://github.com/slihatim) | [KSSIM Mohammed](https://github.com/SaifVelly/)
 
 
 
