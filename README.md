@@ -37,7 +37,7 @@ Explore different folders corresponding to the various areas we cover:
   - 
   - [LAKHAL Badr](https://github.com/BALK-03) | [OUAHMANE Yassine](https://github.com/YassineOUAHMANE)
   - [EL OUKILI Tarik](https://github.com/TarikEloukili)
-  - [IKBI Abdelilah]
+  - [IKBI Abdelilah](https://github.com/abde14-ik) | [Rim Lakhiri](https://github.com/rimalklola)
   - [AZEHAF Sara]
   - [SLIMANI Hatim]
 
