@@ -1,0 +1,20 @@
+# Data Sources:
+>> Kaggle
+https://www.kaggle.com/
+>> UCI Machine Learning Repository
+https://archive.ics.uci.edu/
+>> Google Dataset Search
+https://datasetsearch.research.google.com/
+>> Data.gov
+https://www.data.gov.ma/
+
+
+# Jupyter
+https://jupyter.org/
+
+
+# git & GitHub
+>> Where i learned it
+https://youtu.be/fDkR0TDR9dI?si=Vi-i6HpiY176bErM
+
+
