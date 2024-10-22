@@ -39,7 +39,7 @@ This repository is the result of a collaborative effort by dedicated CIT members
   - [LAKHAL Badr](https://github.com/BALK-03) | [OUAHMANE Yassine](https://github.com/YassineOUAHMANE)
   - [EL OUKILI Tarik](https://github.com/TarikEloukili)
   - [IKBI Abdelilah](https://github.com/abde14-ik) | [lakhiri Rim](https://github.com/rimalklola)
-  - [AZEHAF Sara](https://github.com/Saraazehaf) | [JOUKAR Aimrane](https://github.com/joukar4) | [KAMAL Salma](https://github.com/SaliKAMAL) |[Mohamed Amine Lahlal](https://github.com/MohamedAmineLahlal)
+  - [AZEHAF Sara](https://github.com/Saraazehaf) | [JOUKAR Aimrane](https://github.com/joukar4) | [KAMAL Salma](https://github.com/SaliKAMAL) | [LAHLAL Mohamed Amine](https://github.com/MohamedAmineLahlal)
   - [SLIMANI Hatim](https://github.com/slihatim) | [KSSIM Mohammed](https://github.com/SaifVelly/)
 
 
