@@ -18,3 +18,12 @@ https://jupyter.org/
 https://youtu.be/fDkR0TDR9dI?si=Vi-i6HpiY176bErM
 
 
+# Guide to writing clean code in Python
+https://peps.python.org/pep-0008/#introduction
+
+
+# Best practices for structuring your data science code
+>> I prefer using the v1 template
+https://cookiecutter-data-science.drivendata.org/
+
+
