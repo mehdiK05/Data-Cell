@@ -33,7 +33,8 @@ Explore different folders corresponding to the various areas we cover:
 
 <br>
 
-## This is a collaborative effort by:
+## Our Contributors
+This repository is the result of a collaborative effort by dedicated CIT members. Special thanks to the following contributors who made this possible:
   - [EL MERJANI Mohamed](https://github.com/elmerjani) | [BENHAMMOUTE Mohammed](https://github.com/Mohammed-BENHAMMOUTE)
   - [LAKHAL Badr](https://github.com/BALK-03) | [OUAHMANE Yassine](https://github.com/YassineOUAHMANE)
   - [EL OUKILI Tarik](https://github.com/TarikEloukili)
@@ -44,3 +45,6 @@ Explore different folders corresponding to the various areas we cover:
 
 
 
+
+
+<br>
