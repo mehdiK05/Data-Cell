@@ -1,11 +1,14 @@
-This repository is the place where you can find all the presentations done in the DEVOPS CELL. 
+Welcome to the DEVOPS CELL presentations hub! This repository is your one-stop place for all the insightful and collaborative presentations that have been made during our DevOps sessions. Dive into the world of DevOps and explore the collective knowledge we've built together.
+
+🌟 Presented By:
+This is a collaborative effort by our talented team, including:
+
+IKBI Abdelilah & LAKHIRI Rim;
 
 
-This is a collaborative work presented by:
+🙏 A Special Thanks:
+A huge thank you to everyone who contributed to these sessions and helped make this repository a valuable resource. 
 
-IKBI Abdelilah
 
-LAKHIRI Rim
 
-Thank you 
 
