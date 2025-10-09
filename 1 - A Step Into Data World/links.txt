@@ -1,0 +1,29 @@
+# Data Sources:
+>> Kaggle
+https://www.kaggle.com/
+>> UCI Machine Learning Repository
+https://archive.ics.uci.edu/
+>> Google Dataset Search
+https://datasetsearch.research.google.com/
+>> Data.gov
+https://www.data.gov.ma/
+
+
+# Jupyter
+https://jupyter.org/
+
+
+# git & GitHub
+>> Where i learned it
+https://youtu.be/fDkR0TDR9dI?si=Vi-i6HpiY176bErM
+
+
+# Guide to writing clean code in Python
+https://peps.python.org/pep-0008/#introduction
+
+
+# Best practices for structuring your data science code
+>> I prefer using the v1 template
+https://cookiecutter-data-science.drivendata.org/
+
+
