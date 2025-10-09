@@ -11,7 +11,5 @@
 
 This repository is the place where you can find all the files you'll need as a CIT DATA CELL member. Everyone is welcome to benefit from its content 
 
-By:
-
 <br>
 
