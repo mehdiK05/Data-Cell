@@ -9,11 +9,9 @@
 
 
 
-This repository is the place where you can find all the files you'll need as a CIT DATA CELL member. Everyone is welcome to benefit from its content :D
+This repository is the place where you can find all the files you'll need as a CIT DATA CELL member. Everyone is welcome to benefit from its content 
 
-This is a collaborative Work By:
-- [LAKHAL Badr](https://github.com/BALK-03)
-- [OUAHMANE Yassine](https://github.com/YassineOUAHMANE)
+By:
 
 <br>
-Feel free to ask if you have any questions !
+
