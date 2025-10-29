@@ -14,7 +14,7 @@ https://jupyter.org/
 
 
 # git & GitHub
->> Where i learned it
+>> crash course
 https://youtu.be/fDkR0TDR9dI?si=Vi-i6HpiY176bErM
 
 
